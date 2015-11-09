@@ -1,0 +1,26 @@
+{
+  "name": "node-slack-chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no0dles/node-slack-chess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/no0dles/node-slack-chess/issues"
+  },
+  "homepage": "https://github.com/no0dles/node-slack-chess#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+}
